@@ -13,3 +13,9 @@ y = "Hello, World!"
 
 print(x)
 print(y)
+
+"""
+This is a comment
+written in
+more than just one line
+"""
