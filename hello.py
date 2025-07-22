@@ -73,3 +73,16 @@ print(x)
 txt = "The best things in life are free!"
 print("free" in txt)
 print("expensive" not in txt)
+
+age = 36
+txt = f"My name is John, I am {age}"
+print(txt)
+
+txt = "We are the so-called \"Vikings\" from the north."
+print(txt)
+
+x = "Hello"
+y = 15
+
+print(bool(x))
+print(bool(y))
